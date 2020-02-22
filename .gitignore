@@ -1,0 +1,9 @@
+
+/vagrant.config.yml
+/.idea
+/nbproject
+.vagrant
+.DS_Store
+*.retry
+*.log
+data.b64
